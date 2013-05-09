@@ -1,0 +1,23 @@
+# Solution files
+*/*.sln
+
+# C# project files
+*/*/*.csproj
+
+# vsmdi files
+*/*.vsmdi
+
+# suo files
+*/*.suo
+
+# Properties directories
+*/*/Properties
+
+# bin directories
+*/*/bin
+
+# obj directories
+*/*/obj
+
+# Test settings files
+*/*.testsettings
